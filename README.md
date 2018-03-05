@@ -1,1 +1,1 @@
-# Bunny-Privacy
+# The app does not get your personal informations such as email, name.
